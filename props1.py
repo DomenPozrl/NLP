@@ -11,13 +11,13 @@ def process_single_sentence(sentence):
 
 
 		#velika zacetnica vector[0]
-		if key[0].upper() == key[0]:
+		if key[0].upper() == key[0] and key[0].isalnum():
 			vector.append(1)
 		else:
 			vector.append(0)
 
 		#le velike črke v celotni besedi vector[1]
-		if key.upper() == key:
+		if key.upper() == key and key.isalnum():
 			vector.append(1)
 		else:
 			vector.append(0)
@@ -35,14 +35,14 @@ def process_single_sentence(sentence):
 			vector.append(0)
 
 		#le stevilke v besedi vector[4]			
-		if all([True for c in key if c in ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"]]):
+		if all([True if c in ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"] else False for c in key]):
 			vector.append(1)
 		else:
 			vector.append(0)
 
 
 		#numerični izraz vector[5]
-		if all([True for c in key if c in ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"] or c in ["+", "-", "*", "/"]]):
+		if all([True if c in ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"] or c in ["+", "-", "*", "/"] else False for c in key ]):
 			vector.append(1)
 		else:
 			vector.append(0)
@@ -55,7 +55,7 @@ def process_single_sentence(sentence):
 
 		#je rimska stevilka vector[7]
 		#I = 1, V = 5, X = 10, L = 50, C = 100, D = 500, M = 1000.
-		if all([True for c in key if c in ["I", "V", "X", "L", "C", "D", "M"]]):
+		if all([True if c in ["I", "V", "X", "L", "C", "D", "M"] else False for c in key ]):
 			vector.append(1)
 		else:
 			vector.append(0)
@@ -68,7 +68,7 @@ def process_single_sentence(sentence):
 
 
 		#le velike crke, lahko ločene s piko vector[9]
-		if key.upper() == key and all([True for c in key if c.isalpha() or c == "."]):
+		if key.upper() == key and all([True if c.isalpha() or c == "." else False for c in key]):
 			vector.append(1)
 		else:
 			vector.append(0) 

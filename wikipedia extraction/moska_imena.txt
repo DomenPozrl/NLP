@@ -1,0 +1,918 @@
+Abel (ime)
+Abraham (ime)
+Adam
+Adem
+Adi
+Admir
+Adnan
+Adolf
+Adrian
+Adriano
+Adrijan
+Adrijano
+Ahac
+Ahmed
+Ahmet
+Ajdin
+Al (ime)
+Alain
+Alan
+Albert
+Alberto
+Albin (ime)
+Albino (osebno ime)
+Aldin
+Aldo
+Aleks
+Aleksandar
+Aleksander
+Aleksej
+Aleksij
+Alen
+Alessandro
+Aleš
+Alexander
+Alfi
+Alfonz
+Alfred
+Aljaž
+Aljoša
+Almir
+Alojz
+Alojzij
+Amadej
+Ambrož
+Amel
+Amir
+Anastazij
+Andi (ime)
+Andraž
+Andre
+Andreas
+Andrej
+Anej
+Ante
+Anto
+Anton
+Antonijo
+Antonio (osebno ime)
+Antun
+Anže (ime)
+Anžej
+Arif
+Armand
+Armando
+Armin
+Arne
+Arnel
+Arnes (ime)
+Arnold (osebno ime)
+Art
+Artur
+Asim
+Avgust (ime)
+Avgustin
+Avguštin (ime)
+Avrelij
+Ažbe
+B
+Baltazar
+Bartolomej
+Bazilij
+Benedikt (ime)
+Benjamin (osebno ime)
+Beno
+Bernard
+Bernardo (osebno ime)
+Bert
+Berto
+Bine
+Blaž
+Blažo
+Bogdan
+Bogo
+Bogoljub
+Bogomil
+Bogomir
+Bogoslav
+Bojan
+Boleslav
+Bolfenk
+Boltežar
+Bonifacij
+Bor (ime)
+Boris
+Borislav
+Borko
+Borut
+Boško
+Boštjan
+Božidar
+Božislav
+Božo
+Brane
+Branimir
+Branislav
+Branko
+Bratislav
+Bratko
+Brin (ime)
+Bruno (ime)
+Budimir
+Budislav
+C
+Celestin
+Cene (osebno ime)
+Ciril
+Cvetko (ime)
+Cveto
+Č
+Čedo
+Čedomir
+Črt
+Črtomir
+D
+Dag
+Dagmar (moško ime)
+Damian
+Damijan
+Damir
+Damjan
+Dan (ime)
+Dane (ime)
+Dani
+Daniel
+Daniele
+Danijel
+Danilo
+Danimir
+Danjel
+Danko
+Dare
+Darian (ime)
+Darij
+Darijan
+Darijo
+Darinko
+Dario
+Daris
+Darjan
+Darjo
+Darko
+David
+Davide
+Davor
+Davorin
+Dean
+Dejan
+Demetrij
+Den
+Deni
+Denis
+Dezider
+Deziderij
+Dimitrij
+Dionizij
+Domen
+Dominik
+Don (ime)
+Donat
+Dorian
+Dorijan
+Dorotej
+Dragan
+Dragi
+Dragiša
+Drago
+Dragoljub
+Dragomil
+Dragomir
+Dragoslav
+Dragotin
+Dragutin
+Dražen
+Draženko
+Drejc
+Drejče
+Duncan (ime)
+Dušan
+Duško
+E
+Edi
+Edin
+Edmond
+Edmund
+Edo (ime)
+E
+Eduard
+Edvard
+Edvin
+Egidij
+Egon
+Elija
+Elijo
+Elio
+Elvir
+Elvis
+Emanuel
+Emerik
+Emil
+Emilij
+Emilijan
+Emiljan
+Emin
+Emir
+Enej
+Enes
+Enis
+Enver
+Erazem
+Eric
+Erik
+Ermin
+Ernest
+Ernst
+Ervin
+Esad
+Etbin
+Eugen
+Evald
+Evgen
+Evgenij (ime)
+Evstahij
+F
+Fabian
+Fabijan
+Fabijo
+Fabio
+Fabjan
+Fabjo
+Fadil
+Fedja
+Fedor
+Felicijan
+Felicjan
+Feliks
+Ferdinand
+Ferdo
+Ferenc
+Ferid
+Fikret
+Filip
+Florian
+Florijan
+Florjan (ime)
+Fonzi
+Fortunat
+Fran
+Franc
+France
+Francelj
+Franci
+Franček
+Frančišek
+Frane
+Franek
+Franjo
+Frank (ime)
+Franko
+Fredi
+Fric
+Friderik
+G
+Gaber (ime)
+Gabriel
+Gabrijel
+Gaj (ime)
+Gal
+Gašper
+Georg
+George
+Georgij
+Geza
+Gino
+Gojko
+Gojmir
+Goran
+Gorazd (ime)
+Gordan
+Gracijan
+Grega
+Gregor
+Grozdan
+Guido
+Gustav
+Gustelj
+Gusti
+Gvido
+H
+Hadrijan (ime)
+Hari
+Haris
+Hasan
+Helmut
+Henri
+Henrih
+Henrik
+Herbert (osebno ime)
+Herman
+Hieronim (ime)
+Hilarij
+Hinko
+Hubert
+Hugo
+Husein (ime)
+Husejin
+I
+Ibrahim
+Ibro
+Ignac
+Ignacij
+Igor
+Ilija
+Ilj
+Imre
+Ismet
+Istok
+Istvan
+Ištvan
+Ivan
+Ivo
+Izak
+Izet
+Izidor
+Iztok
+J
+Jadran (ime)
+Jadranko
+Jaka
+Jakec
+Jakob
+Jan
+Janče (ime)
+Jane
+Janez
+Jani
+Janislav
+Janko
+Janoš
+Januš
+Jarko
+Jaro
+Jaromir
+Jaroslav
+Jaša
+Jelko
+Jerko
+Jernej
+Jeronim (ime)
+Johan
+Jonatan
+Jos
+Josip
+Joško
+Jošt
+Jozef
+Jozo
+Joža
+Jože
+Jožef
+Jožek
+Joži
+Jožko
+Julij (ime)
+Julijan
+Jurček (ime)
+Jure
+Jurij
+Jurko
+Juro
+Just
+Justin
+Jusuf
+Juš
+K
+Kaj
+Kajetan
+Kalman
+Kamil
+Kamilo
+Kancijan
+Kandid (ime)
+Karel
+Karl
+Karli (ime)
+Karlo
+Karol
+Kazimir
+Kevin
+Kim (moško ime)
+Kimi
+Klaudio
+Klavdij (ime)
+K
+Klavdijo
+Klemen
+Knut
+Koloman
+Konrad
+Konstantin
+Kornelij
+Kosta
+Kostja
+Kozma
+Krašan
+Kris
+Kristian
+Kristijan
+Kristjan (ime)
+Krištof
+Kurent (ime)
+Kuzman
+L
+Ladislav
+Ladko
+Lado
+Lambert (osebno ime)
+Lavrencij (ime)
+Lazar
+Leander (ime)
+Lenard (ime)
+Lenart (ime)
+Leo
+Leon
+Leonard
+Leonardo
+Leonid
+Leopold
+Lev (ime)
+Liberat
+Libero
+Lino
+Livij
+Livijo
+Livio
+Ljuban
+Ljubinko
+Ljubiša
+Ljubo
+Ljubomir
+Ljuboslav
+Ljudevit
+Lojze
+Loris
+Lovrenc
+Lovrencij
+Lovro
+Luca (moško ime)
+Luciano
+Lucijan
+Lucjan
+Lučano
+Lučko
+Ludovik
+Ludvik
+Luka (ime)
+Lukas
+M
+Maj (ime)
+Makarij
+Maks
+Maksi
+Maksim
+Maksimilijan
+Maksimiljan
+Manuel
+Marcel
+Marco
+Marčelo
+Mare
+Marij (ime)
+Marijan
+Marijo
+Marin
+Marinko
+Marino (osebno ime)
+Mario
+Marjan
+Mark
+Marko
+Marsel
+Martin (osebno ime)
+Mate (ime)
+Matej
+Matevž (ime)
+Matic
+Matija
+Matjaž
+Matjažek
+Matko
+Mato
+Mauro
+Mavricij (ime)
+Medard
+Mehmed
+Melhijor
+Melhior
+Metod
+Michael
+Michel (osebno ime)
+Miha
+Mihael
+Mihailo
+Mihajlo
+Mihalj
+Mihec
+Mijo
+Miklavž (ime)
+Miko
+Miladin
+Milan (ime)
+Milanko
+Milenko
+Milivoj
+Milko
+Milorad
+Miloslav
+Miloš
+Miran
+Mirando
+Mirjan
+Mirko
+Miro
+Miroljub
+Miroslav
+Mirsad
+Mišo
+Mitja
+Mitjan
+Mladen
+Modest
+Mohor
+Mojmir
+Momir
+Muhamed
+Muharem
+N
+Nace
+Nadin
+Nande
+Narcis
+Nebojša
+Nedeljko
+Nedjo
+Nedo
+Nejc
+Nenad
+Neo
+Nerino
+Nermin
+Neven
+Nevenko
+Nevij
+Nevijo
+Nevio
+Nicholas
+Nik
+Niki
+Nikica
+Niko
+Nikolaj
+Nino
+Noel (ime)
+Novak (ime)
+Novica
+O
+Oleg
+Oliver (osebno ime)
+Omar
+Omer
+Orlando (ime)
+Oscar
+Oskar (ime)
+Osman
+Osvald
+Otmar
+Oto
+Otokar (ime)
+Oton
+Ožbalt (ime)
+Ožbej
+Ožbolt
+P
+Pankrac
+Pankracij
+Patricij (ime)
+Patrick
+Patrik
+Pavel
+Pavle
+Peregrin
+Pero (ime)
+Petar
+Peter
+Petja (moško ime)
+Petko
+Pij
+Polde
+Polikarp
+P
+Pongrac (ime)
+Predrag
+Primož (ime)
+Pust (ime)
+R
+Rade
+Radenko
+Radislav
+Radiša
+Radivoj
+Radivoje
+Radko
+Rado
+Radomir
+Radosav
+Radoslav
+Radoš
+Radovan
+Rafael
+Rafko
+Rajko
+Rajmond
+Rajmund
+Ramiz
+Rasim
+Rastislav
+Rastko
+Rasto
+Renat
+Renato
+Rene
+Renee
+Richard (osebno ime)
+Rihard
+Rikardo
+Riki
+Riko
+Rino
+Risto
+Robert
+Roberto
+Robi
+Rok
+Roki
+Roko
+Roland
+Rolando
+Roman (ime)
+Romano
+Romeo
+Romi (ime)
+Rožle (ime)
+Rudi (ime)
+Rudolf
+Rupert
+S
+Sabin
+Safet
+Sam (ime)
+Sami (ime)
+Samir
+Samo (ime)
+Samuel
+Sandi
+Sandro
+Sanel
+Saško
+Sašo
+Sava (moško ime)
+Savin
+Savko
+Savo
+Sead
+Sebastian
+Sebastijan
+Sebastjan
+Semjon
+Senad
+Sergej
+Sergij
+Sergio
+Servacij
+Severin (ime)
+Sidonij
+Silvan
+Silvano
+Silverij
+Silvester
+Silvij
+Silvijo
+Silvin
+Silvio
+Silvo
+Simeon
+Simo
+Simon
+Siniša
+Sladjan
+Slađan
+Slaven
+Slaviša
+Slavko
+Slavo
+Slavoljub
+Slavomir
+Slobodan
+Slovanska imena
+Smiljan (ime)
+Srečko
+Srečo
+Sreten
+Sretko
+Sreto
+Stane
+Stanimir
+Stanislav
+Staniša
+Stanko
+Stanoje
+Staš
+Staško
+Stašo
+Stefan
+Stevan
+Stevo
+Stipe
+Stipo
+Stjepan
+Stojan
+Stojko
+Suad
+Sulejman
+Suljo
+Suvad
+Svetislav
+Svetko
+Sveto (ime)
+Svetomir
+Svetozar
+Svobodan
+Š
+Šaban
+Šandor
+Šefik
+Šemso
+Šerif (ime)
+Šime
+Šimo
+Štefan
+Štefko
+T
+Tadej
+Taras
+Teo
+Teodor
+Tevž
+Tian
+Tibor
+Tihomir
+Tijan
+Tilen
+Tim
+Time (osebno ime)
+Timej
+Timi
+Timo
+Timon
+Timotej
+Tin
+Tine
+Tinej
+Tinek
+Tit
+Tjaš
+Tjaž
+Todor
+Tom
+Toma
+Tomas
+Tomaž
+Tomi
+Tomica
+Tomislav (ime)
+Tomo
+Tonček
+Tonči
+Tone
+Toni
+Tugomir
+U
+Umbert
+Urban (ime)
+Urh (ime)
+Uroš
+V
+Valdi
+Valent
+Valentin
+Valentino
+Valerij
+Valerijan
+Valter
+Vane
+Vanjo
+Vasilij
+Vasja
+V
+Vasko
+Vaso
+Vedran
+Vekoslav
+Velemir
+Velibor
+Velimir
+Veljko
+Vencelj
+Venceslav
+Venčeslav
+Vendel
+Vendelin
+Vesel
+Veselin
+Veseljko
+Veselko
+Vesko
+Vid (ime)
+Vidko
+Vido
+Viki (moško ime)
+Viktor
+Vilhelm
+Vili
+Vilibald
+Vilijem
+Vilim
+Viljan
+Viljem
+Vilko
+Vincenc
+Vincencij
+Vinko
+Virgilij
+Vit
+Vital
+Vitja
+Vitko
+Vito
+Vitodrag
+Vitomir
+Vitoslav
+Vjekoslav
+Vladan
+Vlade
+Vladimir
+Vladislav
+Vladko
+Vlado
+Vlastimir
+Vlasto
+Vojimir
+Vojin
+Vojislav
+Vojko
+Vojo
+Vojteh
+Volbenk
+Z
+Zdenko
+Zdravko
+Zijad
+Zlatan
+Zlatko
+Zlato (ime)
+Zlatomir
+Zmago
+Zmagoslav
+Zoltan
+Zoran
+Zorislav
+Zorko (ime)
+Zuhdija
+Zvezdan (ime)
+Zvone
+Zvonimir
+Zvonko
+Ž
+Žan
+Žane
+Žani
+Žarko
+Želimir
+Željko
+Želko
+Žiga
+Živadin
+Živan
+Živko
+Živojin
+Živorad

@@ -1,0 +1,215 @@
+A
+Občina Ajdovščina
+Občina Ankaran
+Občina Apače
+B
+Občina Beltinci
+Občina Benedikt
+Občina Bistrica ob Sotli
+Občina Bled
+Občina Bovec
+Občina Bloke
+Občina Bohinj
+Občina Borovnica
+Občina Braslovče
+Občina Brda
+Občina Brezovica
+Občina Brežice
+C
+Občina Cankova
+Mestna občina Celje
+Občina Cerklje na Gorenjskem
+Občina Cerknica
+Občina Cerkno
+Občina Cerkvenjak
+Občina Cirkulane
+Č
+Občina Črenšovci
+Občina Črna na Koroškem
+Občina Črnomelj
+D
+Občina Destrnik
+Občina Divača
+Občina Dobje
+Občina Dobrepolje
+Občina Dobrna
+Občina Dobrova - Polhov Gradec
+Občina Dobrovnik
+Občina Dol pri Ljubljani
+Občina Dolenjske Toplice
+Občina Domžale
+Občina Dornava
+Občina Dravograd
+Občina Duplek
+G
+Občina Gorenja vas - Poljane
+Občina Gorišnica
+Občina Gorje
+Občina Gornja Radgona
+Občina Gornji Grad
+Občina Gornji Petrovci
+Občina Grad
+Občina Grosuplje
+H
+Občina Hajdina
+Občina Hoče - Slivnica
+Občina Hodoš
+Občina Horjul
+Občina Hrastnik
+Občina Hrpelje - Kozina
+I
+Občina Idrija
+Občina Ig
+Občina Ilirska Bistrica
+Občina Ivančna Gorica
+Občina Izola
+J
+Občina Jesenice
+Občina Jezersko
+Občina Juršinci
+K
+Občina Kamnik
+Občina Kanal
+Občina Kidričevo
+Občina Kobarid
+Občina Kobilje
+Občina Kočevje
+Občina Komen
+Občina Komenda
+Mestna občina Koper
+Občina Kostanjevica na Krki
+Občina Kostel
+Občina Kozje
+Mestna občina Kranj
+Občina Kranjska Gora
+Občina Križevci
+Občina Krško
+Občina Kungota
+Občina Kuzma
+L
+Občina Laško
+Občina Lenart
+Občina Lendava
+Občina Litija
+Mestna občina Ljubljana
+Občina Ljubno
+Občina Ljutomer
+Občina Log - Dragomer
+Občina Logatec
+Občina Loška dolina
+Občina Loški Potok
+Občina Lovrenc na Pohorju
+Občina Luče
+Občina Lukovica
+M
+Občina Majšperk
+Občina Makole
+Mestna občina Maribor
+Občina Markovci
+Občina Medvode
+Občina Mengeš
+Občina Metlika
+Občina Mežica
+Občina Miklavž na Dravskem polju
+Občina Miren - Kostanjevica
+Občina Mirna
+Občina Mirna Peč
+Občina Mislinja
+Občina Mokronog - Trebelno
+Občina Moravče
+Občina Moravske Toplice
+Občina Mozirje
+Mestna občina Murska Sobota
+Občina Muta
+N
+Občina Naklo
+Občina Nazarje
+Mestna občina Nova Gorica
+Mestna občina Novo mesto
+O
+Občina Odranci
+Občina Oplotnica
+Občina Ormož
+Občina Osilnica
+P
+Občina Pesnica
+Občina Piran
+Občina Pivka
+Občina Podčetrtek
+Občina Podlehnik
+Občina Podvelka
+Občina Poljčane
+Občina Polzela
+Občina Postojna
+Občina Prebold
+Občina Preddvor
+Občina Prevalje
+Mestna občina Ptuj
+Občina Puconci
+R
+Občina Rače - Fram
+Občina Radeče
+Občina Radenci
+Občina Radlje ob Dravi
+Občina Radovljica
+Občina Ravne na Koroškem
+Občina Razkrižje
+Občina Rečica ob Savinji
+Občina Renče - Vogrsko
+Občina Ribnica
+Občina Ribnica na Pohorju
+Občina Rogaška Slatina
+Občina Rogašovci
+Občina Rogatec
+Občina Ruše
+S
+Občina Selnica ob Dravi
+Občina Semič
+Občina Sevnica
+Občina Sežana
+Mestna občina Slovenj Gradec
+Občina Slovenska Bistrica
+Občina Slovenske Konjice
+Občina Sodražica
+Občina Solčava
+Občina Središče ob Dravi
+Občina Starše
+Občina Straža
+Občina Sveta Ana
+Občina Sveta Trojica v Slovenskih goricah
+Občina Sveti Andraž v Slovenskih goricah
+Občina Sveti Jurij ob Ščavnici
+Občina Sveti Jurij v Slovenskih goricah
+Občina Sveti Tomaž
+Š
+Občina Šalovci
+Občina Šempeter - Vrtojba
+Občina Šenčur
+Občina Šentilj
+Občina Šentjernej
+Občina Šentjur
+Občina Šentrupert
+Občina Škocjan
+Občina Škofja Loka
+Občina Škofljica
+Občina Šmarje pri Jelšah
+Občina Šmarješke Toplice
+Občina Šmartno ob Paki
+Občina Šmartno pri Litiji
+Občina Šoštanj
+Občina Štore
+T
+Občina Tabor
+Občina Tišina
+Občina Tolmin
+Občina Trbovlje
+Občina Trebnje
+Občina Trnovska vas
+Občina Trzin
+Občina Tržič
+Občina Turnišče
+V
+Mestna občina Velenje
+Občina Velika Polana
+Občina Velike Lašče
+Občina Veržej
