@@ -23,10 +23,10 @@ if __name__ == "__main__":
             vektor.extend(props3[key][word])
             vektor.extend(props4[key][word])
 
-            pomozni_dict[word] = (vektor, data[key][word][1])
+            pomozni_dict[data[key][word][0]] = (vektor, data[key][word][1])
 
         znacilke[key] = pomozni_dict
 
-    file = open("znacilke.pickle", "wb")
+    file = open("znacilke_lema.pickle", "wb")
     pickle.dump(znacilke, file)
     file.close()

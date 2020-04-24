@@ -9,7 +9,6 @@ def process_single_sentence(sentence):
 
 		vector = []
 
-
 		#velika zacetnica vector[0]
 		if key[0].upper() == key[0] and key[0].isalnum():
 			vector.append(1)
