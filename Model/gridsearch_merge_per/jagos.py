@@ -22,8 +22,8 @@ def load_train_test(X_filename: str, Y_filename: str, train: float, test: float)
 
 if __name__ == '__main__':
 
-    train_X, train_Y, test_X, test_Y = load_train_test(X_filename='vector_vector_znacilke.pickle',
-                                                       Y_filename='vector_vector_classes.pickle',
+    train_X, train_Y, test_X, test_Y = load_train_test(X_filename='../../Data/merge_per/vector_vector_znacilke.pickle',
+                                                       Y_filename='../../Data/merge_per/vector_vector_classes.pickle',
                                                        train=70,
                                                        test=30)
 
@@ -32,7 +32,7 @@ if __name__ == '__main__':
     all_states = [True, False]
     all_transitions = [True, False]
 
-    file = open('grid_search_jagos.txt', 'w')
+    file = open('grid_search_jagos_merge_per.txt', 'w')
 
     i = 1
     N = len(algorithms) * len(min_frequencies) * len(all_states) * len(all_transitions)
@@ -79,7 +79,8 @@ if __name__ == '__main__':
                         file.write(results)
                         file.write('\n\n')
 
-                    except:
+                    except Exception as e:
+                        print(e)
                         print('Invalid parameter combination.')
                         file.write(str(params))
                         file.write('Invalid parameter combination.')

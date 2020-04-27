@@ -22,8 +22,8 @@ def load_train_test(X_filename: str, Y_filename: str, train: float, test: float)
 
 if __name__ == '__main__':
 
-    train_X, train_Y, test_X, test_Y = load_train_test(X_filename='vector_vector_znacilke.pickle',
-                                                       Y_filename='vector_vector_classes.pickle',
+    train_X, train_Y, test_X, test_Y = load_train_test(X_filename='../../Data/original/vector_vector_znacilke.pickle',
+                                                       Y_filename='../../Data/original/vector_vector_classes.pickle',
                                                        train=70,
                                                        test=30)
 
