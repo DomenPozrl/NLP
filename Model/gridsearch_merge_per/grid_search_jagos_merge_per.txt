@@ -1,0 +1,340 @@
+{'algo': 'ap', 'min_freq': 0, 'all_state': True, 'all_transition': True}              precision    recall  f1-score   support
+
+         per     0.7251    0.8583    0.7861       381
+         org     0.3922    0.3704    0.3810       108
+        misc     0.0588    0.0370    0.0455        27
+         loc     0.8723    0.8211    0.8459       341
+   deriv-per     0.0000    0.0000    0.0000         0
+    notpropn     0.9987    0.9979    0.9983     43414
+
+   micro avg     0.9932    0.9932    0.9932     44271
+   macro avg     0.5078    0.5141    0.5094     44271
+weighted avg     0.9933    0.9932    0.9932     44271
+
+
+{'algo': 'ap', 'min_freq': 0, 'all_state': True, 'all_transition': False}              precision    recall  f1-score   support
+
+         per     0.7267    0.8583    0.7870       381
+         org     0.3810    0.3704    0.3756       108
+        misc     0.0588    0.0370    0.0455        27
+         loc     0.8750    0.8211    0.8472       341
+   deriv-per     0.0000    0.0000    0.0000         0
+    notpropn     0.9987    0.9979    0.9983     43414
+
+   micro avg     0.9932    0.9932    0.9932     44271
+   macro avg     0.5067    0.5141    0.5089     44271
+weighted avg     0.9933    0.9932    0.9932     44271
+
+
+{'algo': 'ap', 'min_freq': 0, 'all_state': False, 'all_transition': True}              precision    recall  f1-score   support
+
+         per     0.7118    0.8425    0.7716       381
+         org     0.3694    0.3796    0.3744       108
+        misc     0.0667    0.0370    0.0476        27
+         loc     0.8742    0.8152    0.8437       341
+   deriv-per     0.0000    0.0000    0.0000         0
+    notpropn     0.9987    0.9978    0.9982     43414
+
+   micro avg     0.9930    0.9930    0.9930     44271
+   macro avg     0.5034    0.5120    0.5059     44271
+weighted avg     0.9932    0.9930    0.9930     44271
+
+
+{'algo': 'ap', 'min_freq': 0, 'all_state': False, 'all_transition': False}              precision    recall  f1-score   support
+
+         per     0.7146    0.8478    0.7755       381
+         org     0.3761    0.3796    0.3779       108
+        misc     0.0667    0.0370    0.0476        27
+         loc     0.8683    0.8123    0.8394       341
+   deriv-per     0.0000    0.0000    0.0000         0
+    notpropn     0.9987    0.9978    0.9983     43414
+
+   micro avg     0.9930    0.9930    0.9930     44271
+   macro avg     0.5041    0.5124    0.5064     44271
+weighted avg     0.9932    0.9930    0.9930     44271
+
+
+{'algo': 'ap', 'min_freq': 0.02, 'all_state': True, 'all_transition': True}              precision    recall  f1-score   support
+
+         per     0.7130    0.8478    0.7746       381
+         org     0.3832    0.3796    0.3814       108
+        misc     0.0667    0.0370    0.0476        27
+         loc     0.8715    0.8152    0.8424       341
+   deriv-per     0.0000    0.0000    0.0000         0
+    notpropn     0.9987    0.9978    0.9983     43414
+
+   micro avg     0.9930    0.9930    0.9930     44271
+   macro avg     0.5055    0.5129    0.5074     44271
+weighted avg     0.9932    0.9930    0.9931     44271
+
+
+{'algo': 'ap', 'min_freq': 0.02, 'all_state': True, 'all_transition': False}              precision    recall  f1-score   support
+
+         per     0.7146    0.8478    0.7755       381
+         org     0.3727    0.3796    0.3761       108
+        misc     0.0625    0.0370    0.0465        27
+         loc     0.8738    0.8123    0.8419       341
+   deriv-per     0.0000    0.0000    0.0000         0
+    notpropn     0.9987    0.9978    0.9982     43414
+
+   micro avg     0.9930    0.9930    0.9930     44271
+   macro avg     0.5037    0.5124    0.5064     44271
+weighted avg     0.9932    0.9930    0.9930     44271
+
+
+{'algo': 'ap', 'min_freq': 0.02, 'all_state': False, 'all_transition': True}              precision    recall  f1-score   support
+
+         per     0.7149    0.8425    0.7735       381
+         org     0.3784    0.3889    0.3836       108
+        misc     0.0714    0.0370    0.0488        27
+         loc     0.8660    0.8152    0.8399       341
+   deriv-per     0.0000    0.0000    0.0000         0
+    notpropn     0.9987    0.9978    0.9983     43414
+
+   micro avg     0.9930    0.9930    0.9930     44271
+   macro avg     0.5049    0.5136    0.5073     44271
+weighted avg     0.9932    0.9930    0.9930     44271
+
+
+{'algo': 'ap', 'min_freq': 0.02, 'all_state': False, 'all_transition': False}              precision    recall  f1-score   support
+
+         per     0.7146    0.8478    0.7755       381
+         org     0.3661    0.3796    0.3727       108
+        misc     0.0667    0.0370    0.0476        27
+         loc     0.8766    0.8123    0.8432       341
+   deriv-per     0.0000    0.0000    0.0000         0
+    notpropn     0.9987    0.9978    0.9983     43414
+
+   micro avg     0.9930    0.9930    0.9930     44271
+   macro avg     0.5038    0.5124    0.5062     44271
+weighted avg     0.9932    0.9930    0.9931     44271
+
+
+{'algo': 'pa', 'min_freq': 0, 'all_state': True, 'all_transition': True}              precision    recall  f1-score   support
+
+         per     0.7133    0.8425    0.7726       381
+         org     0.3800    0.3519    0.3654       108
+        misc     0.0588    0.0370    0.0455        27
+         loc     0.8660    0.8152    0.8399       341
+   deriv-per     0.0000    0.0000    0.0000         0
+    notpropn     0.9986    0.9979    0.9982     43414
+
+   micro avg     0.9930    0.9930    0.9930     44271
+   macro avg     0.5028    0.5074    0.5036     44271
+weighted avg     0.9930    0.9930    0.9930     44271
+
+
+{'algo': 'pa', 'min_freq': 0, 'all_state': True, 'all_transition': False}              precision    recall  f1-score   support
+
+         per     0.7127    0.8399    0.7711       381
+         org     0.3673    0.3333    0.3495       108
+        misc     0.0500    0.0370    0.0426        27
+         loc     0.8688    0.8152    0.8411       341
+   deriv-per     0.0000    0.0000    0.0000         0
+    notpropn     0.9985    0.9979    0.9982     43414
+
+   micro avg     0.9929    0.9929    0.9929     44271
+   macro avg     0.4996    0.5039    0.5004     44271
+weighted avg     0.9930    0.9929    0.9929     44271
+
+
+{'algo': 'pa', 'min_freq': 0, 'all_state': False, 'all_transition': True}              precision    recall  f1-score   support
+
+         per     0.7124    0.8451    0.7731       381
+         org     0.3750    0.3611    0.3679       108
+        misc     0.0714    0.0370    0.0488        27
+         loc     0.8698    0.8035    0.8354       341
+   deriv-per     0.0000    0.0000    0.0000         0
+    notpropn     0.9985    0.9979    0.9982     43414
+
+   micro avg     0.9930    0.9930    0.9930     44271
+   macro avg     0.5045    0.5075    0.5039     44271
+weighted avg     0.9930    0.9930    0.9929     44271
+
+
+{'algo': 'pa', 'min_freq': 0, 'all_state': False, 'all_transition': False}              precision    recall  f1-score   support
+
+         per     0.7118    0.8425    0.7716       381
+         org     0.3689    0.3519    0.3602       108
+        misc     0.0714    0.0370    0.0488        27
+         loc     0.8671    0.8035    0.8341       341
+   deriv-per     0.0000    0.0000    0.0000         0
+    notpropn     0.9985    0.9979    0.9982     43414
+
+   micro avg     0.9929    0.9929    0.9929     44271
+   macro avg     0.5030    0.5055    0.5022     44271
+weighted avg     0.9930    0.9929    0.9929     44271
+
+
+{'algo': 'pa', 'min_freq': 0.02, 'all_state': True, 'all_transition': True}              precision    recall  f1-score   support
+
+         per     0.7111    0.8399    0.7702       381
+         org     0.3654    0.3519    0.3585       108
+        misc     0.0714    0.0370    0.0488        27
+         loc     0.8644    0.8035    0.8328       341
+   deriv-per     0.0000    0.0000    0.0000         0
+    notpropn     0.9985    0.9979    0.9982     43414
+
+   micro avg     0.9929    0.9929    0.9929     44271
+   macro avg     0.5018    0.5050    0.5014     44271
+weighted avg     0.9929    0.9929    0.9928     44271
+
+
+{'algo': 'pa', 'min_freq': 0.02, 'all_state': True, 'all_transition': False}              precision    recall  f1-score   support
+
+         per     0.7133    0.8425    0.7726       381
+         org     0.3619    0.3519    0.3568       108
+        misc     0.0714    0.0370    0.0488        27
+         loc     0.8671    0.8035    0.8341       341
+   deriv-per     0.0000    0.0000    0.0000         0
+    notpropn     0.9985    0.9979    0.9982     43414
+
+   micro avg     0.9929    0.9929    0.9929     44271
+   macro avg     0.5021    0.5055    0.5017     44271
+weighted avg     0.9930    0.9929    0.9929     44271
+
+
+{'algo': 'pa', 'min_freq': 0.02, 'all_state': False, 'all_transition': True}              precision    recall  f1-score   support
+
+         per     0.7143    0.8399    0.7720       381
+         org     0.3619    0.3519    0.3568       108
+        misc     0.0667    0.0370    0.0476        27
+         loc     0.8644    0.8035    0.8328       341
+   deriv-per     0.0000    0.0000    0.0000         0
+    notpropn     0.9985    0.9979    0.9982     43414
+
+   micro avg     0.9929    0.9929    0.9929     44271
+   macro avg     0.5010    0.5050    0.5012     44271
+weighted avg     0.9929    0.9929    0.9929     44271
+
+
+{'algo': 'pa', 'min_freq': 0.02, 'all_state': False, 'all_transition': False}              precision    recall  f1-score   support
+
+         per     0.7118    0.8425    0.7716       381
+         org     0.3725    0.3519    0.3619       108
+        misc     0.0667    0.0370    0.0476        27
+         loc     0.8698    0.8035    0.8354       341
+   deriv-per     0.0000    0.0000    0.0000         0
+    notpropn     0.9985    0.9979    0.9982     43414
+
+   micro avg     0.9929    0.9929    0.9929     44271
+   macro avg     0.5032    0.5055    0.5025     44271
+weighted avg     0.9930    0.9929    0.9929     44271
+
+
+{'algo': 'arow', 'min_freq': 0, 'all_state': True, 'all_transition': True}              precision    recall  f1-score   support
+
+         per     0.6983    0.7349    0.7161       381
+         org     0.2891    0.3426    0.3136       108
+        misc     0.0714    0.0741    0.0727        27
+         loc     0.8262    0.7947    0.8102       341
+   deriv-per     0.0000    0.0000    0.0000         0
+    notpropn     0.9980    0.9974    0.9977     43414
+
+   micro avg     0.9914    0.9914    0.9914     44271
+   macro avg     0.4805    0.4906    0.4850     44271
+weighted avg     0.9918    0.9914    0.9916     44271
+
+
+{'algo': 'arow', 'min_freq': 0, 'all_state': True, 'all_transition': False}              precision    recall  f1-score   support
+
+         per     0.7010    0.7323    0.7163       381
+         org     0.3066    0.3889    0.3429       108
+        misc     0.0714    0.0741    0.0727        27
+         loc     0.8303    0.8035    0.8167       341
+   deriv-per     0.0000    0.0000    0.0000         0
+    notpropn     0.9980    0.9972    0.9976     43414
+
+   micro avg     0.9914    0.9914    0.9914     44271
+   macro avg     0.4846    0.4993    0.4910     44271
+weighted avg     0.9919    0.9914    0.9916     44271
+
+
+{'algo': 'arow', 'min_freq': 0, 'all_state': False, 'all_transition': True}              precision    recall  f1-score   support
+
+         per     0.6901    0.7480    0.7179       381
+         org     0.3065    0.3519    0.3276       108
+        misc     0.0588    0.0741    0.0656        27
+         loc     0.8476    0.7830    0.8140       341
+   deriv-per     0.0000    0.0000    0.0000         0
+    notpropn     0.9980    0.9973    0.9976     43414
+
+   micro avg     0.9914    0.9914    0.9914     44271
+   macro avg     0.4835    0.4924    0.4871     44271
+weighted avg     0.9919    0.9914    0.9916     44271
+
+
+{'algo': 'arow', 'min_freq': 0, 'all_state': False, 'all_transition': False}              precision    recall  f1-score   support
+
+         per     0.6908    0.7507    0.7195       381
+         org     0.3197    0.3611    0.3391       108
+        misc     0.0870    0.0741    0.0800        27
+         loc     0.8567    0.7713    0.8117       341
+   deriv-per     0.0000    0.0000    0.0000         0
+    notpropn     0.9977    0.9975    0.9976     43414
+
+   micro avg     0.9915    0.9915    0.9915     44271
+   macro avg     0.4920    0.4924    0.4913     44271
+weighted avg     0.9918    0.9915    0.9916     44271
+
+
+{'algo': 'arow', 'min_freq': 0.02, 'all_state': True, 'all_transition': True}              precision    recall  f1-score   support
+
+         per     0.6942    0.7507    0.7213       381
+         org     0.3016    0.3519    0.3248       108
+        misc     0.0714    0.0741    0.0727        27
+         loc     0.8544    0.7742    0.8123       341
+   deriv-per     0.0000    0.0000    0.0000         0
+    notpropn     0.9978    0.9974    0.9976     43414
+
+   micro avg     0.9914    0.9914    0.9914     44271
+   macro avg     0.4866    0.4914    0.4881     44271
+weighted avg     0.9918    0.9914    0.9916     44271
+
+
+{'algo': 'arow', 'min_freq': 0.02, 'all_state': True, 'all_transition': False}              precision    recall  f1-score   support
+
+         per     0.7015    0.7402    0.7203       381
+         org     0.3040    0.3519    0.3262       108
+        misc     0.0588    0.0741    0.0656        27
+         loc     0.8466    0.7771    0.8104       341
+   deriv-per     0.0000    0.0000    0.0000         0
+    notpropn     0.9978    0.9974    0.9976     43414
+
+   micro avg     0.9913    0.9913    0.9913     44271
+   macro avg     0.4848    0.4901    0.4867     44271
+weighted avg     0.9918    0.9913    0.9915     44271
+
+
+{'algo': 'arow', 'min_freq': 0.02, 'all_state': False, 'all_transition': True}              precision    recall  f1-score   support
+
+         per     0.6946    0.7402    0.7166       381
+         org     0.2891    0.3426    0.3136       108
+        misc     0.0690    0.0741    0.0714        27
+         loc     0.8323    0.7713    0.8006       341
+   deriv-per     0.0000    0.0000    0.0000         0
+    notpropn     0.9980    0.9975    0.9977     43414
+
+   micro avg     0.9913    0.9913    0.9913     44271
+   macro avg     0.4805    0.4876    0.4833     44271
+weighted avg     0.9918    0.9913    0.9915     44271
+
+
+{'algo': 'arow', 'min_freq': 0.02, 'all_state': False, 'all_transition': False}              precision    recall  f1-score   support
+
+         per     0.6878    0.7402    0.7130       381
+         org     0.3333    0.4074    0.3667       108
+        misc     0.0909    0.0741    0.0816        27
+         loc     0.8469    0.7947    0.8200       341
+   deriv-per     0.0000    0.0000    0.0000         0
+    notpropn     0.9979    0.9973    0.9976     43414
+
+   micro avg     0.9915    0.9915    0.9915     44271
+   macro avg     0.4928    0.5023    0.4965     44271
+weighted avg     0.9919    0.9915    0.9917     44271
+
+
+
+
+ = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Best:0.9931848827726915{'algo': 'ap', 'min_freq': 0, 'all_state': True, 'all_transition': True}
