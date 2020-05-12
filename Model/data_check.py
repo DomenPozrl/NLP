@@ -1,22 +1,21 @@
 import pickle
 
-with open('../Data/original/vector_vector_classes.pickle', 'rb') as f:
+with open('../Data/strip+-1/vector_vector_znacilke.pickle', 'rb') as f:
     data = pickle.load(f)
 
-with open('../Data/original/vector_sentences.pickle', 'rb') as f:
-    sentences = pickle.load(f)
+data_modified = []
+for sentence in data:
+    sentence_modified = []
+    for word in sentence:
+        word_modified = {}
+        for key in word:
+            if key[0] != '1':
+                word_modified[key] = word[key]
+
+        sentence_modified.append(word_modified)
+
+    data_modified.append(sentence_modified)
 
 
-for i in range(len(data)):
-    for j in range(len(data[i])):
-        if data[i][j] == 'deriv-per':
-            print('deriv-per: ({}, {})'.format(i, j))
-            print(sentences[i])
-            print()
-        if data[i][j] == 'misc':
-            print('misc: ({}, {})'.format(i, j))
-            print(sentences[i])
-            print()
-
-
-
+with open('../Data/strip+-1/vector_vector_znacilke.pickle', 'wb') as f:
+    data = pickle.dump(data_modified, f)

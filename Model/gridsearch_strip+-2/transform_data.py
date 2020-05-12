@@ -9,7 +9,7 @@ for sentence in data:
     for word in sentence:
         word_modified = {}
         for key in word:
-            if key[0] != '1':
+            if key[0] != '2':
                 word_modified[key] = word[key]
 
         sentence_modified.append(word_modified)
