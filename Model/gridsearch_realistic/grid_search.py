@@ -65,10 +65,11 @@ def domen(train_X, train_Y, test_X, test_Y):
                                 pred_Y = crf.predict(test_X)
 
                                 f1 = metrics.flat_f1_score(test_Y, pred_Y, average='weighted',
-                                                           labels=['per', 'org', 'misc', 'loc', 'notpropn'])
+                                                           labels=['per', 'org', 'misc', 'loc', 'deriv-per',
+                                                                   'notpropn'])
                                 res = metrics.flat_classification_report(test_Y, pred_Y,
                                                                          labels=['per', 'org', 'misc', 'loc',
-                                                                                 'notpropn'], digits=4)
+                                                                                 'deriv-per', 'notpropn'], digits=4)
 
                                 results.append((f1, params))
 
@@ -197,8 +198,8 @@ def jagos(train_X, train_Y, test_X, test_Y):
 
 
 if __name__ == '__main__':
-    train_X, train_Y, test_X, test_Y = load_train_test(X_filename='../../Data/strip+-2/vector_vector_znacilke.pickle',
-                                                       Y_filename='../../Data/strip+-2/vector_vector_classes.pickle',
+    train_X, train_Y, test_X, test_Y = load_train_test(X_filename='../../Data/realistic/vector_vector_znacilke.pickle',
+                                                       Y_filename='../../Data/realistic/vector_vector_classes.pickle',
                                                        train=70,
                                                        test=30)
 
