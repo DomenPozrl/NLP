@@ -29,18 +29,18 @@ if __name__ == '__main__':
 
     crf = sklearn_crfsuite.CRF(
         algorithm='lbfgs',
-        c1=0,
-        c2=0,
+        c1=0.01,
+        c2=0.01,
         max_iterations=10000,
         all_possible_transitions=True,
         all_possible_states=True,
-        min_freq=0
-    )
+        min_freq=0)
 
     crf.fit(train_X, train_Y)
     pred_Y = crf.predict(test_X)
 
     f1 = metrics.flat_f1_score(test_Y, pred_Y, average='weighted', labels=['per', 'org', 'misc', 'loc', 'deriv-per', 'notpropn'])
+    print(metrics.flat_f1_score(test_Y, pred_Y, average=None, labels=['per']))
     results = metrics.flat_classification_report(test_Y, pred_Y, labels=['per', 'org', 'misc', 'loc', 'deriv-per', 'notpropn'], digits=4)
     print(results)
 
