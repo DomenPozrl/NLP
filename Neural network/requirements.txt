@@ -1,0 +1,8 @@
+pandas
+numpy
+tqdm
+torch
+transformers
+keras
+sklearn
+seqeval

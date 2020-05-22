@@ -1,0 +1,4 @@
+before running install requirements.txt
+python3 "Neural sequence tagging (PyTorch).py" --> runs the training and testing of the BERT model for NER on "nn_data.csv". Currently the learning is commented out so you can just test it.
+	First you have to download the saved model at "https://drive.google.com/drive/folders/1X3Iec_dC1bTq5Wb0giivvE_6BgQIUN2p?usp=sharing" 
+	it also requires a dir "slo-hr-en-bert-pytorch" with "config.json", "pytorch_model.bin" and "vocab.txt" available at "https://unilj-my.sharepoint.com/personal/slavkozitnik_fri1_uni-lj_si/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fslavkozitnik%5Ffri1%5Funi%2Dlj%5Fsi%2FDocuments%2Ftemp&originalPath=aHR0cHM6Ly91bmlsai1teS5zaGFyZXBvaW50LmNvbS86ZjovZy9wZXJzb25hbC9zbGF2a296aXRuaWtfZnJpMV91bmktbGpfc2kvRXVVOGV1OUpIclpFdGtKb01odnpMNW9COFBqVURQMERteXdUeFI1cjNsOGRRQT9ydGltZT1oZUxUUjBQLTEwZw"
